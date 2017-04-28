@@ -10,8 +10,8 @@ awesome deep learning papers for dialog systems
 
 
 ## Chat Bots
-[A Neural Conversational Model](https://arxiv.org/abs/1506.05869) [Oriol Vinyals et al., arXiv 2015]
-[A Persona-Based Neural Conversation Model](https://arxiv.org/abs/1603.06155) [Jiwei Li et al, arXiv, 2016]
+.[A Neural Conversational Model](https://arxiv.org/abs/1506.05869) [Oriol Vinyals et al., arXiv 2015]
+.[A Persona-Based Neural Conversation Model](https://arxiv.org/abs/1603.06155) [Jiwei Li et al, arXiv, 2016]
 
 
 ## Task Bots
