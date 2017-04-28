@@ -52,6 +52,6 @@ awesome deep learning papers for dialog systems
 ## State Tracking
 - [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling](https://arxiv.org/abs/1609.01454v1) [Bing Liu et al., 2016]
 
-- [Using Recurrent Neural Networks for Slot Filling in Spoken Language Understanding](https://www.microsoft.com/en-us/research/publication/using-recurrent-neural-networks-for-slot-filling-in-spoken-language-understanding/)[Grégoire Mesnil et al., 2015]
+- [Using Recurrent Neural Networks for Slot Filling in Spoken Language Understanding](https://www.microsoft.com/en-us/research/publication/using-recurrent-neural-networks-for-slot-filling-in-spoken-language-understanding/) [Grégoire Mesnil et al., 2015]
 
 
