@@ -30,6 +30,8 @@ awesome deep learning papers for dialog systems
 
 - [A Persona-Based Neural Conversation Model](https://arxiv.org/abs/1603.06155) [Jiwei Li et al, arXiv, 2016]
 
+- [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/abs/1701.06547) [Jiwei Li et al, arXiv, 2017]
+
 
 ## Task Bots
 - [A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/abs/1604.04562) [Tsung-Hsien Wen et al, arXiv, 2016]
