@@ -17,9 +17,9 @@ awesome deep learning papers for dialog systems
 
 - [A Neural Network Approach to Context-Sensitive Generation of Conversational Responses](https://arxiv.org/abs/1506.06714) [Alessandro Sordoni et al., arXiv 2015]
 
-- []()[]
+- [Teaching Machines to Read and Comprehend](https://arxiv.org/abs/1506.03340) [Karl Moritz Hermann et al., arXiv 2015]
 
-- []()[]
+- [A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues](https://arxiv.org/abs/1605.06069) [Iulian Vlad Serban et al., arXiv 2016]
 
 ## Chat Bots
 - [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) [Ilya Sutskever et al., arXiv 2014]
