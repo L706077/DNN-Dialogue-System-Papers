@@ -3,6 +3,7 @@ awesome deep learning papers for dialog systems
 ## Bookmarks
 
 ## Word embeddeding & Attention Mechanism
+- [Distributed Representations of Words and Phrases and Their Compositionality](https://arxiv.org/abs/1310.4546)[Tomas Mikolov et al., arXiv 2013]
 - [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781) [Tomas Mikolov et al., arXiv 2013]
 
 
