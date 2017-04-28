@@ -10,7 +10,7 @@ awesome deep learning papers for dialog systems
 
 - [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025) [Minh-Thang Luong et al., arXiv 2015]
 
-## Long-term Context
+## Context
 - [Attention with Intention for a Neural Network Conversation Model](https://arxiv.org/abs/1510.08565)[Kaisheng Yao et al., arXiv 2015]
 
 - [Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models](https://arxiv.org/abs/1507.04808) [Iulian V. Serban et al., arXiv 2015]
