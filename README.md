@@ -22,8 +22,18 @@ awesome deep learning papers for dialog systems
 
 
 ## Task Bots
+- [A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/abs/1604.04562) [Tsung-Hsien Wen et al, arXiv, 2016]
+
+- [End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning](https://arxiv.org/abs/1606.01269) [Jason D. Williams et al., 2016]
 
 
+- [Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning](https://arxiv.org/abs/1702.03274) [Jason D. Williams et al., 2017]
+
+- [Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access](https://arxiv.org/abs/1609.00777) [Bhuwan Dhingra et al., 2016]
+
+- [Towards End-to-End Learning for Dialog State Tracking and Management using Deep Reinforcement Learning](https://arxiv.org/abs/1606.02560) [Tiancheng Zhao et al., 2016]
+
+- []()[]
 
 ## State Tracking
 
