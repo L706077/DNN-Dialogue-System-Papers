@@ -10,7 +10,7 @@ awesome deep learning papers for dialog systems
 
 
 # Chat Bots
-
+https://arxiv.org/abs/1506.05869 [Oriol Vinyals et al., arXiv 2015]
 
 
 # Task Bots
