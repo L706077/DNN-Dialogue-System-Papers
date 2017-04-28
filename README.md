@@ -8,6 +8,7 @@ awesome deep learning papers for dialog systems
 
 - [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) [Dzmitry Bahdanau et al., arXiv 2014]
 
+- [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025) [Minh-Thang Luong et al., arXiv 2015]
 
 ## Long-term Context
 
