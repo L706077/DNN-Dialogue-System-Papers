@@ -33,7 +33,9 @@ awesome deep learning papers for dialog systems
 
 - [Towards End-to-End Learning for Dialog State Tracking and Management using Deep Reinforcement Learning](https://arxiv.org/abs/1606.02560) [Tiancheng Zhao et al., 2016]
 
-- []()[]
+- [End-to-End Joint Learning of Natural Language Understanding and Dialogue Manager](https://arxiv.org/abs/1612.00913) [Xuesong Yang et al., 2017]
+
+- [End-to-End Task-Completion Neural Dialogue Systems](https://arxiv.org/abs/1703.01008) [Xiujun Li et al., 2017]
 
 ## State Tracking
 
