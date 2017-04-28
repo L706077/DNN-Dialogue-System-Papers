@@ -24,6 +24,8 @@ awesome deep learning papers for dialog systems
 ## Chat Bots
 - [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) [Ilya Sutskever et al., arXiv 2014]
 
+- [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)  [Kyunghyun Cho et al., arXiv 2014]
+
 - [A Neural Conversational Model](https://arxiv.org/abs/1506.05869) [Oriol Vinyals et al., arXiv 2015]
 
 - [A Persona-Based Neural Conversation Model](https://arxiv.org/abs/1603.06155) [Jiwei Li et al, arXiv, 2016]
