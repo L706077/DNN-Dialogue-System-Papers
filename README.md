@@ -1,21 +1,22 @@
 # DNN-Dialogue-System-Papers
 awesome deep learning papers for dialog systems
-# Bookmarks
+## Bookmarks
 
 
 
-# Long-term Context
+## Long-term Context
 
 
 
 
-# Chat Bots
-https://arxiv.org/abs/1506.05869 [Oriol Vinyals et al., arXiv 2015]
-
-
-# Task Bots
+## Chat Bots
+[A Neural Conversational Model](https://arxiv.org/abs/1506.05869)[Oriol Vinyals et al., arXiv 2015]
 
 
 
-# State Tracking
+## Task Bots
+
+
+
+## State Tracking
 
