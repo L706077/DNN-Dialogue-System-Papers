@@ -2,6 +2,9 @@
 awesome deep learning papers for dialog systems
 ## Bookmarks
 
+## Word embeddeding & Attention Mechanism
+- [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781) [Tomas Mikolov et al., arXiv 2013]
+
 
 
 ## Long-term Context
