@@ -11,11 +11,19 @@ awesome deep learning papers for dialog systems
 - [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025) [Minh-Thang Luong et al., arXiv 2015]
 
 ## Long-term Context
+- [Attention with Intention for a Neural Network Conversation Model](https://arxiv.org/abs/1510.08565)[Kaisheng Yao et al., arXiv 2015]
 
+- [Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models](https://arxiv.org/abs/1507.04808) [Iulian V. Serban et al., arXiv 2015]
 
+- [A Neural Network Approach to Context-Sensitive Generation of Conversational Responses](https://arxiv.org/abs/1506.06714) [Alessandro Sordoni et al., arXiv 2015]
 
+- []()[]
+
+- []()[]
 
 ## Chat Bots
+- [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) [Ilya Sutskever et al., arXiv 2014]
+
 - [A Neural Conversational Model](https://arxiv.org/abs/1506.05869) [Oriol Vinyals et al., arXiv 2015]
 
 - [A Persona-Based Neural Conversation Model](https://arxiv.org/abs/1603.06155) [Jiwei Li et al, arXiv, 2016]
