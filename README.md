@@ -2,38 +2,38 @@
 awesome deep learning papers for dialog systems
 
 ## Word embeddeding & Attention Mechanism
-- [Distributed Representations of Words and Phrases and Their Compositionality](https://arxiv.org/abs/1310.4546) [Tomas Mikolov et al., arXiv 2013]
-- [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781) [Tomas Mikolov et al., arXiv 2013]
+- [Distributed Representations of Words and Phrases and Their Compositionality](https://arxiv.org/abs/1310.4546) [Tomas Mikolov et al., 2013]
+- [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781) [Tomas Mikolov et al., 2013]
 
-- [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) [Dzmitry Bahdanau et al., arXiv 2014]
+- [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) [Dzmitry Bahdanau et al.,  2014]
 
-- [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025) [Minh-Thang Luong et al., arXiv 2015]
+- [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025) [Minh-Thang Luong et al., 2015]
 
 ## Context
-- [Attention with Intention for a Neural Network Conversation Model](https://arxiv.org/abs/1510.08565)[Kaisheng Yao et al., arXiv 2015]
+- [Attention with Intention for a Neural Network Conversation Model](https://arxiv.org/abs/1510.08565)[Kaisheng Yao et al., 2015]
 
-- [Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models](https://arxiv.org/abs/1507.04808) [Iulian V. Serban et al., arXiv 2015]
+- [Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models](https://arxiv.org/abs/1507.04808) [Iulian V. Serban et al., 2015]
 
-- [A Neural Network Approach to Context-Sensitive Generation of Conversational Responses](https://arxiv.org/abs/1506.06714) [Alessandro Sordoni et al., arXiv 2015]
+- [A Neural Network Approach to Context-Sensitive Generation of Conversational Responses](https://arxiv.org/abs/1506.06714) [Alessandro Sordoni et al., 2015]
 
-- [Teaching Machines to Read and Comprehend](https://arxiv.org/abs/1506.03340) [Karl Moritz Hermann et al., arXiv 2015]
+- [Teaching Machines to Read and Comprehend](https://arxiv.org/abs/1506.03340) [Karl Moritz Hermann et al., 2015]
 
-- [A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues](https://arxiv.org/abs/1605.06069) [Iulian Vlad Serban et al., arXiv 2016]
+- [A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues](https://arxiv.org/abs/1605.06069) [Iulian Vlad Serban et al., 2016]
 
 ## Chat Bots
 - [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) [Ilya Sutskever et al., arXiv 2014]
 
 - [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)  [Kyunghyun Cho et al., arXiv 2014]
 
-- [A Neural Conversational Model](https://arxiv.org/abs/1506.05869) [Oriol Vinyals et al., arXiv 2015]
+- [A Neural Conversational Model](https://arxiv.org/abs/1506.05869) [Oriol Vinyals et al., 2015]
 
-- [A Persona-Based Neural Conversation Model](https://arxiv.org/abs/1603.06155) [Jiwei Li et al, arXiv, 2016]
+- [A Persona-Based Neural Conversation Model](https://arxiv.org/abs/1603.06155) [Jiwei Li et al, 2016]
 
-- [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/abs/1701.06547) [Jiwei Li et al, arXiv, 2017]
+- [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/abs/1701.06547) [Jiwei Li et al, 2017]
 
 
 ## Task Bots
-- [A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/abs/1604.04562) [Tsung-Hsien Wen et al, arXiv, 2016]
+- [A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/abs/1604.04562) [Tsung-Hsien Wen et al, 2016]
 
 - [End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning](https://arxiv.org/abs/1606.01269) [Jason D. Williams et al., 2016]
 
