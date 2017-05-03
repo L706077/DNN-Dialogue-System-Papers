@@ -49,6 +49,8 @@ awesome deep learning papers for dialog systems
 - [End-to-End Task-Completion Neural Dialogue Systems](https://arxiv.org/abs/1703.01008) [Xiujun Li et al., 2017]
 
 ## Slot & Entity Tracking
+- [Multi-Domain Joint Semantic Frame Parsing using Bi-directional RNN-LSTM](https://www.microsoft.com/en-us/research/publication/multijoint/) [Dilek Hakkani-Tür et al., 2016]
+
 - [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling](https://arxiv.org/abs/1609.01454v1) [Bing Liu et al., 2016]
 
 - [Using Recurrent Neural Networks for Slot Filling in Spoken Language Understanding](https://www.microsoft.com/en-us/research/publication/using-recurrent-neural-networks-for-slot-filling-in-spoken-language-understanding/) [Grégoire Mesnil et al., 2015]
