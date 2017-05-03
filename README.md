@@ -1,7 +1,7 @@
 # DNN-Dialogue-System-Papers
 awesome deep learning papers for dialog systems
 
-## Word embeddeding & Attention Mechanism
+## Word embedding & Attention Mechanism
 - [Distributed Representations of Words and Phrases and Their Compositionality](https://arxiv.org/abs/1310.4546) [Tomas Mikolov et al., 2013]
 - [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781) [Tomas Mikolov et al., 2013]
 
