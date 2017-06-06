@@ -55,4 +55,8 @@ awesome deep learning papers for dialog systems
 
 - [Using Recurrent Neural Networks for Slot Filling in Spoken Language Understanding](https://www.microsoft.com/en-us/research/publication/using-recurrent-neural-networks-for-slot-filling-in-spoken-language-understanding/) [Grégoire Mesnil et al., 2015]
 
+## ASR
+- [Deep Speech: Scaling up end-to-end speech recognition](https://arxiv.org/abs/1412.5567) [Awni Hannun et al., 2014]
+
+- [Deep Speech 2: End-to-End Speech Recognition in English and Mandarin](https://arxiv.org/abs/1512.02595) [Dario Amodei et al., 2015]
 
