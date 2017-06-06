@@ -60,5 +60,7 @@ awesome deep learning papers for dialog systems
 
 - [Deep Speech 2: End-to-End Speech Recognition in English and Mandarin](https://arxiv.org/abs/1512.02595) [Dario Amodei et al., 2015]
 
+- [Fast and Accurate Recurrent Neural Network Acoustic Models for Speech Recognition](https://arxiv.org/abs/1507.06947) [Haşim Sak et al., 2015]
+
 ## TTS
 - [Deep Voice: Real-time Neural Text-to-Speech](https://arxiv.org/abs/1702.07825) [Sercan O. Arik et al., 2017]
