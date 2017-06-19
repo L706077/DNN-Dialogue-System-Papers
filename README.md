@@ -72,6 +72,6 @@ awesome deep learning papers for dialog systems
 ## Keyword Spotting
 - [SMALL-FOOTPRINT KEYWORD SPOTTING USING DEEP NEURAL NETWORKS](https://static.googleusercontent.com/media/research.google.com/zh-TW//pubs/archive/42537.pdf) [Guoguo Chen et al., 2014]
 
-- [Convolutional Neural Networks for Small-footprint Keyword Spotting](https://static.googleusercontent.com/media/research.google.com/zh-TW//pubs/archive/43969.pdf) [Tara N et al., 2014]
+- [Convolutional Neural Networks for Small-footprint Keyword Spotting](https://static.googleusercontent.com/media/research.google.com/zh-TW//pubs/archive/43969.pdf) [Tara N et al., 2015]
 
 - [Convolutional Recurrent Neural Networks for Small-Footprint Keyword Spotting](https://arxiv.org/abs/1703.05390) [Sercan O.et al., 2014]
